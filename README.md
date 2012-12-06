@@ -1,7 +1,7 @@
 ExproClientTest
 ==============
 
-#[泛卡惠](https://github.com/MengWei/exproiphone)测试工程
+#[泛卡汇](https://github.com/extensivepro/ExproClient)测试工程
 
 ##安装及使用
 ```bash
